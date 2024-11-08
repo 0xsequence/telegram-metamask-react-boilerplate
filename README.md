@@ -1,6 +1,6 @@
-# Metamask React Starter Boilerplate
+# Telegram Metamask React Starter Boilerplate
 
-Starter boilerplate that uses [Metamask](https://metamask.io) with React.
+A demo that demonstrates how to build a telegram bot and webapp, which uses [Metamask](https://metamask.io) with React.
 
 ## Quickstart
 
